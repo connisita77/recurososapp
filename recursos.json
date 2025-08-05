@@ -1,0 +1,502 @@
+[
+  {
+    "nombre": "Eligendi tenetur",
+    "genero": "Ciencia Ficción",
+    "plataforma": "YouTube",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Aliquid quisquam",
+    "genero": "Aventura",
+    "plataforma": "Apple TV",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Autem accusantium dolore",
+    "genero": "Drama",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Et illo animi sapiente",
+    "genero": "Romance",
+    "plataforma": "Disney+",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Et laborum",
+    "genero": "Aventura",
+    "plataforma": "Amazon",
+    "estado": "Terminado",
+    "formato": "Libro",
+    "fecha_terminacion": "2024-04-05",
+    "valoracion": 1,
+    "resena": "Labore soluta reprehenderit illo enim quae quod veniam tenetur ipsa necessitatibus magnam vitae aperiam."
+  },
+  {
+    "nombre": "Tenetur aperiam consequatur odio",
+    "genero": "Aventura",
+    "plataforma": "Star+",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Ipsam placeat",
+    "genero": "Drama",
+    "plataforma": "YouTube",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Quia",
+    "genero": "Fantasía",
+    "plataforma": "HBO",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Possimus atque expedita",
+    "genero": "Ciencia Ficción",
+    "plataforma": "YouTube",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Dolorum perspiciatis maxime",
+    "genero": "Romance",
+    "plataforma": "Disney+",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Alias",
+    "genero": "Documental",
+    "plataforma": "Apple TV",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Autem",
+    "genero": "Documental",
+    "plataforma": "Amazon",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Consequuntur nihil",
+    "genero": "Romance",
+    "plataforma": "YouTube",
+    "estado": "Terminado",
+    "formato": "Libro",
+    "fecha_terminacion": "2023-08-16",
+    "valoracion": 2,
+    "resena": "Impedit praesentium consectetur eveniet omnis reiciendis esse necessitatibus assumenda consequatur nisi."
+  },
+  {
+    "nombre": "Deleniti",
+    "genero": "Terror",
+    "plataforma": "Amazon",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Quis unde harum",
+    "genero": "Documental",
+    "plataforma": "Kindle",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Ratione non temporibus",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Amazon",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2024-02-20",
+    "valoracion": 5,
+    "resena": "Saepe neque asperiores adipisci vero animi in aperiam sunt."
+  },
+  {
+    "nombre": "Molestiae accusamus amet aliquam",
+    "genero": "Misterio",
+    "plataforma": "Star+",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Iste quisquam",
+    "genero": "Documental",
+    "plataforma": "Disney+",
+    "estado": "Terminado",
+    "formato": "Libro",
+    "fecha_terminacion": "2024-07-25",
+    "valoracion": 1,
+    "resena": "Ad quo fugit temporibus voluptatem temporibus rem iure minus doloremque similique cupiditate architecto perspiciatis quaerat."
+  },
+  {
+    "nombre": "Laboriosam libero quisquam",
+    "genero": "Documental",
+    "plataforma": "YouTube",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Vitae doloremque",
+    "genero": "Misterio",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Aspernatur nihil",
+    "genero": "Documental",
+    "plataforma": "Disney+",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Minima perspiciatis",
+    "genero": "Documental",
+    "plataforma": "YouTube",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Qui",
+    "genero": "Documental",
+    "plataforma": "Apple TV",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Officia aliquam animi",
+    "genero": "Romance",
+    "plataforma": "HBO",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Nihil magni dolores",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Amazon",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Accusamus quibusdam",
+    "genero": "Fantasía",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Eaque possimus sed",
+    "genero": "Ciencia Ficción",
+    "plataforma": "YouTube",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2024-09-01",
+    "valoracion": 5,
+    "resena": "Voluptate consectetur porro eum aut sit laborum fugit perspiciatis neque perferendis necessitatibus quos nisi asperiores."
+  },
+  {
+    "nombre": "Tempora veniam dolorem",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Amazon",
+    "estado": "Terminado",
+    "formato": "Libro",
+    "fecha_terminacion": "2023-01-09",
+    "valoracion": 2,
+    "resena": "Doloribus sapiente pariatur perferendis quo consequuntur magnam."
+  },
+  {
+    "nombre": "Vel sint nisi",
+    "genero": "Aventura",
+    "plataforma": "YouTube",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2022-11-11",
+    "valoracion": 1,
+    "resena": "Mollitia quam non voluptate nobis iure sed non tempore eos velit."
+  },
+  {
+    "nombre": "Sunt voluptas doloribus",
+    "genero": "Aventura",
+    "plataforma": "Kindle",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2023-01-03",
+    "valoracion": 2,
+    "resena": "Ad reiciendis laudantium porro nisi optio dolor natus aperiam voluptatum totam eligendi enim facere nam ipsam."
+  },
+  {
+    "nombre": "Mollitia",
+    "genero": "Drama",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Esse ipsa",
+    "genero": "Terror",
+    "plataforma": "Disney+",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Sapiente vel maiores",
+    "genero": "Drama",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Labore laboriosam facere",
+    "genero": "Ciencia Ficción",
+    "plataforma": "Amazon",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2023-06-01",
+    "valoracion": 3,
+    "resena": "Nesciunt excepturi libero rem veritatis sint cum ducimus laboriosam eos vitae."
+  },
+  {
+    "nombre": "Quasi beatae doloribus quae",
+    "genero": "Aventura",
+    "plataforma": "Apple TV",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Facere fugit",
+    "genero": "Romance",
+    "plataforma": "Disney+",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Aliquid quasi",
+    "genero": "Misterio",
+    "plataforma": "Netflix",
+    "estado": "Pendiente",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Sequi maxime",
+    "genero": "Misterio",
+    "plataforma": "Netflix",
+    "estado": "En progreso",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Provident consectetur dignissimos vel",
+    "genero": "Terror",
+    "plataforma": "Netflix",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2025-06-25",
+    "valoracion": 4,
+    "resena": "Odio atque maxime at beatae totam ad."
+  },
+  {
+    "nombre": "At enim modi",
+    "genero": "Romance",
+    "plataforma": "HBO",
+    "estado": "Pendiente",
+    "formato": "Serie",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Reprehenderit eum",
+    "genero": "Documental",
+    "plataforma": "Apple TV",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2024-02-09",
+    "valoracion": 5,
+    "resena": "Est voluptas rem quas exercitationem quasi assumenda tempore porro cum nisi libero a."
+  },
+  {
+    "nombre": "Eos",
+    "genero": "Misterio",
+    "plataforma": "Netflix",
+    "estado": "Terminado",
+    "formato": "Película",
+    "fecha_terminacion": "2025-01-23",
+    "valoracion": 4,
+    "resena": "Minima rem quas sit cumque nisi reprehenderit laborum veritatis ipsum voluptate autem commodi culpa perspiciatis nesciunt."
+  },
+  {
+    "nombre": "Eligendi",
+    "genero": "Romance",
+    "plataforma": "Amazon",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Blanditiis numquam nulla",
+    "genero": "Romance",
+    "plataforma": "Kindle",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2025-05-27",
+    "valoracion": 2,
+    "resena": "Provident repellendus a consectetur molestias assumenda in ipsum excepturi ut nulla vel velit."
+  },
+  {
+    "nombre": "Quo ab dolor provident",
+    "genero": "Drama",
+    "plataforma": "Star+",
+    "estado": "En progreso",
+    "formato": "Libro",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Accusamus tempore",
+    "genero": "Ciencia Ficción",
+    "plataforma": "YouTube",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2024-06-13",
+    "valoracion": 1,
+    "resena": "Accusamus dolor vitae voluptatum qui mollitia repellendus accusantium eveniet quidem optio nesciunt."
+  },
+  {
+    "nombre": "Atque porro odio",
+    "genero": "Terror",
+    "plataforma": "Kindle",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2023-03-10",
+    "valoracion": 2,
+    "resena": "Odit repellat accusantium quae culpa nesciunt minima a quibusdam reprehenderit vel ipsum laboriosam minus sint."
+  },
+  {
+    "nombre": "Ipsa magni",
+    "genero": "Romance",
+    "plataforma": "Amazon",
+    "estado": "Terminado",
+    "formato": "Serie",
+    "fecha_terminacion": "2023-01-04",
+    "valoracion": 3,
+    "resena": "Asperiores rerum ea aperiam laborum fugit cumque dignissimos dolor eveniet vitae ad id."
+  },
+  {
+    "nombre": "Corporis deleniti",
+    "genero": "Aventura",
+    "plataforma": "HBO",
+    "estado": "En progreso",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  },
+  {
+    "nombre": "Aliquam mollitia",
+    "genero": "Aventura",
+    "plataforma": "HBO",
+    "estado": "Pendiente",
+    "formato": "Película",
+    "fecha_terminacion": null,
+    "valoracion": null,
+    "resena": ""
+  }
+]
